@@ -11,7 +11,7 @@ use MicrosoftAzure\Storage\Blob\Models\PublicAccessType;
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Analyze Sample</title>
+    <title>Image Analyzer - Azure Computer Vision</title>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 </head>
 <body>
